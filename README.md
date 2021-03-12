@@ -14,9 +14,11 @@ confira o layout final : [layout final](./Layoutfinal.png)
 ## React
 O React é uma biblioteca javascript para construção de **interface do usuário** (UI). O principal conceito dessa framework são os **componentes** : partes que formam a interface. Em nosso projeto os seguintes componentes estão presentes :
 
-- App
-- Header
-- Home Page
-- Cards
-- Footer
+- App (zona Amarela)
+- Header (Zona Vermelha)
+- Home Page (Zona Verde)
+- Cards (Zona Verde)
+- Footer (Zona Vermelha)
+
+![componentes](./componentes.png)
 
