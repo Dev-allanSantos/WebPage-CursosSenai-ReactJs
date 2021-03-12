@@ -1,0 +1,72 @@
+div#container-cards{
+    
+    height: 70vh;
+    width: 180vh;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+h3{
+    font-weight: 700;
+    font-family: 'Roboto Slab', serif;
+    color: #384158;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+h4{
+    font-weight: 1700;
+    font-family: 'Roboto Slab', serif;
+    color: #14bdee;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+hr{
+    margin-bottom: 0;
+}
+div.cards{
+    
+
+    background-color: rgb(252, 252, 252);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50vh;
+    height: 65vh;
+    border-radius: 15px;
+}
+
+img.imgcards{
+    height: 26vh;
+    width: 100%;
+    border-radius: 15px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+p.curso-descricao{
+    text-align: justify;
+    padding: 10px;
+    max-width: 50vh;
+    min-width: 40vh;
+    max-height: 15vh;
+    margin-bottom: 0;
+}
+
+p.carga-horaria{
+    margin-top: 5px;
+    margin-bottom: 7px;
+}
+
+p#duracao-curso1{
+    margin-top: 49px;
+    margin-bottom: 5px;
+}
+p#duracao-curso3{
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
