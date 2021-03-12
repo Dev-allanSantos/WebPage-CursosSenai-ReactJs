@@ -10,3 +10,13 @@ A Página demonstra alguns cursos ,bem como suas respectivas informações, disp
 
 confira o wireframe que guiou a elaboração do layout desta página : [wireframe](./Wireframe.png)
 confira o layout final : [layout final](./Layoutfinal.png)
+
+## React
+O React é uma biblioteca javascript para construção de **interface do usuário** (UI). O principal conceito dessa framework são os **componentes** : partes que formam a interface. Em nosso projeto os seguintes componentes estão presentes :
+
+- App
+- Header
+- Home Page
+- Cards
+- Footer
+
