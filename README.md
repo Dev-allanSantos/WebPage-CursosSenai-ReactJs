@@ -27,7 +27,11 @@ O React é uma biblioteca javascript para construção de **interface do usuári
  
  
  Esse Diagrama representa o parentesco entre os componentes
+ 
  ![parentesco](./bbb.png)
+ 
+ 
+ 
  
  ### Requisitos para rodar essa aplicação na sua máquina
  
@@ -38,10 +42,10 @@ O React é uma biblioteca javascript para construção de **interface do usuári
 Para baixar o Yarn:
 abra o cmd, insira o seguinte código e pressione enter :
 
-#### `npm install -g yarn`
+## `npm install -g yarn`
 
 
-baixe esse repositório na sua máquina local e depois abra o prompt de comando. No prompt de comando 
+Depois de preparar o ambiente, baixe esse repositório na sua máquina local e depois abra o prompt de comando. No prompt de comando navegue até a pasta do projeto **** 
 
 
  
