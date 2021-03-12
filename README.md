@@ -24,3 +24,9 @@ O React é uma biblioteca javascript para construção de **interface do usuári
 ![componentes](./componentes.png)
 
  App (representado em amarelo) é o componentes pai dos componentes Header, Home Page e Footer e o componente Home Page é pai do componente Cards.
+ 
+ 
+ Esse Diagrama representa o parentesco entre os componentes
+ ![parentesco](./bbb.png)
+ 
+ 
