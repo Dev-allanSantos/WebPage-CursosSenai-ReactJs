@@ -27,6 +27,6 @@ O React é uma biblioteca javascript para construção de **interface do usuári
  
  
  Esse Diagrama representa o parentesco entre os componentes
- ![parentesco](./bbb(1).png)
+ ![parentesco](./bbb (1).png)
  
  
