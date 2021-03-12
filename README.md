@@ -29,4 +29,20 @@ O React é uma biblioteca javascript para construção de **interface do usuári
  Esse Diagrama representa o parentesco entre os componentes
  ![parentesco](./bbb.png)
  
+ ### Requisitos para rodar essa aplicação na sua máquina
+ 
+ - Node.js (14.16.0 ou superior) --> [dowload](https://nodejs.org/en/)
+ - npm (6.14.12 - Ela ja vem instalado na instalação do node)
+ - yarn 
+
+Para baixar o Yarn:
+abra o cmd, insira o seguinte código e pressione enter :
+
+#### `npm install -g yarn`
+
+
+baixe esse repositório na sua máquina local e depois abra o prompt de comando. No prompt de comando 
+
+
+ 
  
