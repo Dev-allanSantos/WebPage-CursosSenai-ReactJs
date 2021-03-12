@@ -45,7 +45,15 @@ abra o cmd, insira o seguinte código e pressione enter :
 ## `npm install -g yarn`
 
 
-Depois de preparar o ambiente, baixe esse repositório na sua máquina local e depois abra o prompt de comando. No prompt de comando navegue até a pasta do projeto **** 
+Depois de preparar o ambiente, baixe esse repositório na sua máquina local e depois abra o prompt de comando. No prompt de comando navegue até a pasta do projeto **segundo-app** com o comando:
+
+### `cd segundo-app`
+
+depois execute o comando para rodar a página :
+
+### `yarn start`
+
+
 
 
  
