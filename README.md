@@ -8,4 +8,4 @@ Página web que demonstra cursos oferecidos pelo Senai. Esta página foi constru
 
 A Página demonstra alguns cursos ,bem como suas respectivas informações, dispostos em cards. 
 
-confira o wireframe que guiou a elaboração do layout desta página : [wireframe](./wireframe.png)
+confira o wireframe que guiou a elaboração do layout desta página : [wireframe](./Wireframe.png)
